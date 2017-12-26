@@ -1,0 +1,4 @@
+c:\users\selcuk.aydin\documents\visual studio 2010\Projects\harcamalar\WebApplication1\bin\WebApplication1.dll
+c:\users\selcuk.aydin\documents\visual studio 2010\Projects\harcamalar\WebApplication1\bin\WebApplication1.pdb
+c:\users\selcuk.aydin\documents\visual studio 2010\Projects\harcamalar\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\selcuk.aydin\documents\visual studio 2010\Projects\harcamalar\WebApplication1\obj\Debug\WebApplication1.pdb

@@ -1,0 +1,14 @@
+c:\users\selcuk.aydin\documents\visual studio 2010\Projects\harcamalar\WebApplication1\bin\WebApplication1.dll
+c:\users\selcuk.aydin\documents\visual studio 2010\Projects\harcamalar\WebApplication1\bin\WebApplication1.pdb
+c:\users\selcuk.aydin\documents\visual studio 2010\Projects\harcamalar\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\selcuk.aydin\documents\visual studio 2010\Projects\harcamalar\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\selcuk.aydin\Documents\Visual Studio 2010\Projects\harcamalar\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+F:\netcadweb\WebApplication1\bin\WebApplication1.dll
+F:\netcadweb\WebApplication1\bin\WebApplication1.pdb
+F:\netcadweb\WebApplication1\obj\Debug\WebApplication1.dll
+F:\netcadweb\WebApplication1\obj\Debug\WebApplication1.pdb
+\\192.168.1.111\c$\inetpub\wwwroot\prjtest\bin\WebApplication1.dll
+\\192.168.1.111\c$\inetpub\wwwroot\prjtest\bin\WebApplication1.pdb
+\\192.168.1.111\c$\inetpub\wwwroot\prjtest\obj\Debug\WebApplication1.dll
+\\192.168.1.111\c$\inetpub\wwwroot\prjtest\obj\Debug\WebApplication1.pdb
+\\192.168.1.111\c$\inetpub\wwwroot\prjtest\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
